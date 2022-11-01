@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Machine Learning and AI Engineer/MLOps Consultant
+
+I can manage a machine learning and ai project from the design of the project (Tech and business aspect) to the deployment in kubernetes cluster, monitor the model in production and setup automatic retraining system to avoid the effect of model perfomance performance degrdation in production.
+
 <!--
 **yamess/yamess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
